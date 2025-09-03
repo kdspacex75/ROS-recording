@@ -24,6 +24,6 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Kalidas Shaji](https://linkedin.com/in/kalidas-shaji)  
+- LinkedIn: [Kalidas Shaji](linkedin.com/in/kalidas-shaji-946409340)  
 - GitHub: [github.com/kdspacex75](https://github.com/kdspacex75)  
 - Email: kdx01astrospace@gmail.com  
